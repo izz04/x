@@ -90,11 +90,11 @@
   opacity: 1;
 }
 .card4 {
-  background: url("../images/team/aaeen_zehra.jpeg") center center no-repeat;
+  background: url("../images/team/tvisha_ranjan.jpeg") center center no-repeat;
   background-size: 300px;
 }
 .card4:hover {
-  background: url("../images/team/aaeen_zehra.jpeg") left center no-repeat;
+  background: url("../images/team/tvisha_ranjan.jpeg") left center no-repeat;
   background-size: 600px;
 }
 .card4:hover h2 {
