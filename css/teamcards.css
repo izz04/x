@@ -48,11 +48,11 @@
   opacity: 1;
 }
 .card1 {
-  background: url("../images/team/sagar_sewak.jpeg") center center no-repeat;
+  background: url("../images/team/sagar_sewak.jpg") center center no-repeat;
   background-size: 300px;
 }
 .card1:hover {
-  background: url("../images/team/sagar_sewak.jpeg") left center no-repeat;
+  background: url("../images/team/sagar_sewak.jpg") left center no-repeat;
   background-size: 600px;
 }
 .card1:hover h2 {
@@ -171,6 +171,20 @@
   opacity: 1;
 }
 .card9:hover .cardfa {
+  opacity: 1;
+}
+.card10 {
+  background: url("../images/team/rayan_siddiqui.jpg") center center no-repeat;
+  background-size: 300px;
+}
+.card10:hover {
+  background: url("../images/team/rayan_siddiqui.jpg") left center no-repeat;
+  background-size: 600px;
+}
+.card10:hover h2 {
+  opacity: 1;
+}
+.card10:hover .cardfa {
   opacity: 1;
 }
 h2 {
